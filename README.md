@@ -8,10 +8,10 @@
 As a traveler, I want to see the weather outlook for multiple cities so that I can plan a trip accordinly.
 
 # How it Works
--- Dashboard allows a user to search for weather conditions by city.
--- Current weather includes temperature, humidity, wind speed, and UV index.
--- A 5-day forecase is provided for respective city that provides temperature, wind speed, and humidity.
--- Recent city searches are provided on the side panel so that a user can easily click to see results for their recent searches.
+- Dashboard allows a user to search for weather conditions by city.
+- Current weather includes temperature, humidity, wind speed, and UV index.
+- A 5-day forecase is provided for respective city that provides temperature, wind speed, and humidity.
+- Recent city searches are provided on the side panel so that a user can easily click to see results for their recent searches.
 
 Live link here! https://korbin-sargent.github.io/Weather-Dashboard/
 
